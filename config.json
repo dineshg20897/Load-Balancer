@@ -1,0 +1,9 @@
+{
+    "servers": [
+        { "host": "127.0.0.1", "port": 8080 },
+        { "host": "127.0.0.1", "port": 8081 }
+    ],
+    "algorithm": "round_robin",
+    "health_check_url": "/health",
+    "health_check_interval": 10
+}

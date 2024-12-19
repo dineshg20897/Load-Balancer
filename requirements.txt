@@ -1,0 +1,7 @@
+requests==2.31.0
+socket
+threading
+json
+importlib
+subprocess
+time
